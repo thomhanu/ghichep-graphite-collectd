@@ -1,0 +1,13 @@
+Collectd cung cấp một kho plugin để người dùng có thể sử dụng, người dùng có thể cấu hình trong file collectd.conf để lấy các thông số mà họ muốn.
+
+#### 1. Memory Plugin
+
+Memory plugin thu thập thông tin về bộ nhớ  vật lý của máy. Biểu đồ thể hiện thông tin về:
+- buffered
+- cached
+- free
+- used
+Để kiểm tra các thông số này trên máy ubuntu có thể dùng lệnh: free, top...
+
+
+#### 2. 
